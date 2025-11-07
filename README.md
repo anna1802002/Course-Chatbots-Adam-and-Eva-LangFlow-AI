@@ -25,4 +25,4 @@ Each bot’s folder contains:
 ### 🚀 How to Run
 1. Clone the repo:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Adam-and-Eva-LangFlow-AI.git
+   git clone https://github.com/anna1802002/Adam-and-Eva-LangFlow-AI.git
